@@ -1,0 +1,22 @@
+Time: 1779789231153 - Request: req
+*******
+Time: 1779790307837 - Request: [object Object]
+*******
+Time: 1779790379012 - Request: [object Object]
+*******
+Time: 1779790404133 - Request: [object Object]
+*******
+Time: 1779790885530 - Request: [object Object]
+*******
+Time: 1779790901306 - Request: [object Object]
+*******
+Time: 1779790961081 - Request: [object Object]
+*******
+Time: 1779790971474 - Request: [object Object]
+*******
+Time: 1779790976756 - Request: [object Object]
+*******
+Time: 1779791348871 - Request: GET , /tweet
+*******
+Time: 1779791354052 - Request: POST , /tweet
+*******
